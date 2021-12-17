@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<hr />
 
 ![Metrics](https://metrics.lecoq.io/jiseung-kang?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&introduction=1&introduction.title=true&config.timezone=Asia%2FSeoul)
   
