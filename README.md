@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<hr />
+
 
 ![Metrics](https://metrics.lecoq.io/jiseung-kang?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&introduction=1&introduction.title=true&config.timezone=Asia%2FSeoul)
   
@@ -23,6 +23,6 @@ Here are some ideas to get you started:
  🌱  I’m currently learning HTML/CSS/JavaScript     
   📫  How to reach me: <email>ill0o0lli@ajou.ac.kr</email>     
 
-
+<h1><h1/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiseung-kang)](https://github.com/anuraghazra/github-readme-stats)
