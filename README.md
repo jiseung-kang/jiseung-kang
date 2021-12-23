@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 30%" />
 </div>  
   
 
@@ -16,6 +16,19 @@
   
 
 <br/>  
+
+
+
+
+## Github Stats  
+<div>
+<img src="https://github-readme-stats.vercel.app/api?username=jiseung-kang&show_icons=true&count_private=true&hide_border=true" />  
+<div><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiseung-kang&hide_border=true&layout=compact" /></div> 
+</div> 
+<br/>      
+<br/>
+
+
 
 
 ## My Skill Set  
@@ -72,21 +85,5 @@
 </div>
 
 </td></tr></table>  
-
-<br/>  
-
-
-## Github Stats  
-<div>
-<img src="https://github-readme-stats.vercel.app/api?username=jiseung-kang&show_icons=true&count_private=true&hide_border=true" />  
-<div><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiseung-kang&hide_border=true&layout=compact" /></div> 
-</div> 
-<br/>      
-<br/>
-    
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
 
 <br/>  
