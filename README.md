@@ -3,12 +3,12 @@
 </div>  
   
 
-## <div align="center">I'm Jiseung, a junior Web Developer 👨‍💻 </div>  
+## <div align="center">I'm Jiseung, Growing WEB DEVELOPER 👨‍💻 </div>  
   
 
-- 🔭 I’m currently studying on 멋쟁이사자처럼  
+- 🔭 Currently studying on 멋쟁이사자처럼  
   
-- 🌱 I’m currently learning React, TypeScript  
+- 🌱 Currently learning JS, React, TypeScript  
   
 - ❓ Ask me about anything : <email>ill0o0lli@ajou.ac.kr</email>  
   
