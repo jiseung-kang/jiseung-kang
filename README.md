@@ -8,7 +8,7 @@
 
 - 🔭 Currently studying on 멋쟁이사자처럼  
   
-- 🌱 Currently learning JS, React, TypeScript  
+- 🌱 Currently learning HTML, CSS, JavaScript, React, Next.js  
   
 - ❓ Ask me about anything : <email>ill0o0lli@ajou.ac.kr</email>  
   
