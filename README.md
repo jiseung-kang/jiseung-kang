@@ -12,7 +12,7 @@
   
 - ❓ Ask me about anything : <email>ill0o0lli@ajou.ac.kr</email>  
   
-- ⚡ Love: cat, people, book, yoga, music  
+- ⚡ Love: 🐈‍⬛ 🧘🏻‍♀️
   
 
 <br/>  
