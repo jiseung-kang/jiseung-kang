@@ -42,4 +42,4 @@
 
 ## Blog
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jiseung)](https://github.com/jiseung-kang)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jiseung)](https://velog.io/@jiseung)
