@@ -1,17 +1,12 @@
-# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Jiseung
-![jiseung-kang's Github stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jiseung-kang&theme=nord_bright)
-
-
-## Stats📈 
-<p align="center"> <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=jiseung-kang&show_icons=true&theme=nord_bright&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="jiseung-kang" />  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=jiseung-kang&show_icons=true&theme=nord_bright&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="jiseung-kang" />
-
+<div align="center" bgColor="#ECCCC1">
   
-
-<div align="center">
+![header](https://capsule-render.vercel.app/api?type=transparent&&fontColor=BB2649&height=100&section=header&text=Jiseung%20Kang&fontSize=44&desc=Web%20Frontend%20Developer&descAlignY=80&descAlign=60&descSize=10&descColor=ffffff)
   
- 
-  <h2>Tech Blog</h2>
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jiseung)](https://velog.io/@jiseung)
 
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jiseung)](https://velog.io/@jiseung)
+![jiseung-kang's Github stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jiseung-kang)
 
-</div>
+<img width="40%" src="https://github-readme-stats.vercel.app/api?username=jiseung-kang&show_icons=true&title_color=000000&text_color=000000&locale=en&hide_border=true" alt="jiseung-kang" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=jiseung-kang&show_icons=true&title_color=000000&text_color=000000&locale=en&layout=compact&hide_border=true" alt="jiseung-kang" />  
+
+ </div>
